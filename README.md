@@ -6,7 +6,7 @@ for both the daemon of the blockchain and the wallet configurations.To check wit
 client with the rpc server(the remote procedure call usage by he network for both the main and testnet)
 #Terms of usage:
 Can be run only with the main package
-Cannot be run by non-packages with out a test file for the code being written
+Cannot be run by non-mainpackages with out a test file for the code being written
 need to create a test file and use the commands "go test" in order to check the conditions of the code being valid
 Clone the repository to a local folder
 And then use the go get command for the required git imports
